@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects envolving some kind of art
 - 👀 More about me on [my website](https://arthurvdiniz.me)
 - ⚡ Fun fact: I really like photography and cinema 📷
+
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthurvdiniz&count_private=true)
