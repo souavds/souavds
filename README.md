@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👀 More about me on [my website](https://arthurvdiniz.me)
 - ⚡ Fun fact: I really like photography and cinema 📷
 
-![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=souavds&count_private=true)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=souavds&show_icons=true&theme=tokyonight)
