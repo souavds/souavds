@@ -1,4 +1,12 @@
-### Hey yo 👋
+### hey yo 👋
 
-- 🔭 I’m currently working on [Clutch](https://www.withclutch.com/) as a Software Engineer
-- 👀 More about me on [my digital garden](https://avds.dev)
+```
+photography
+drawing
+technologist
+  - learning go
+  - terminal enthusiast
+    - trying out nvim
+```
+
+[avds.dev](https://avds.dev) | [x](https://x.com/souavds) | [instagram](https://instagram.com/souavds) | [letterboxd](https://letterboxd.com/souavds/) | [strava](https://www.strava.com/athletes/souavds)
